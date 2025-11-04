@@ -1,7 +1,7 @@
 import App from "@/App";
-import GuestBillPaymentPage from '../Features/FrontOffice/Pages/GuestBillPaymentPage'
-import NightAuditPage from '../Features/FrontOffice/Pages/NightAuditPage'
-import ServiceBillPage from '../Features/FrontOffice/Pages/ServiceBillPage'
+import GuestBillPaymentPage from "../features/FrontOffice/Pages/GuestBillPaymentPage";
+import NightAuditPage from "../features/FrontOffice/Pages/NightAuditPage";
+import serviceBillPage from "../features/FrontOffice/Pages/ServiceBillPage";
 
 import { createBrowserRouter } from "react-router";
 
